@@ -1,4 +1,4 @@
 <?php
-echo 'plm';
-//phpinfo();
+//echo 'plm';
+phpinfo();
 ?>
